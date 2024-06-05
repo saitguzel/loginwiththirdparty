@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8s8wgUMxT8OTFBy7p4FoSLX/3G+CfsElSC/pOkdpn3iLUdQ+gOVHsDe2JswnrShj3+j6mfE7imZtV8uVRPufLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\LoginWithGoogle\\LoginWithMicrosoft\\LoginWithMicrosoft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.authentication.microsoftaccount\\8.0.5\\microsoft.aspnetcore.authentication.microsoftaccount.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

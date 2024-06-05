@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uDYVuTFOMLy++F4jCFAs7xE09vwNLMfJ8vxV2EBA4bBsecXNAd2bSpL+FkY5H/ZMlWzrkXUs6cy9oOJTgy5aPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\LoginWithGoogle\\LoginWithLinkedin\\LoginWithLinkedin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\restsharp\\111.1.0\\restsharp.111.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

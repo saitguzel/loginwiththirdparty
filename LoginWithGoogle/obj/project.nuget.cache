@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q70HkLcbfUjaGlvVOOyTUAZu7jlUIUBRCehGQQ+DU/JR6bjrGLHPxk50OxErad0SD1xkubVed9lT1p+sx8cV/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\LoginWithGoogle\\LoginWithGoogle\\LoginWithGoogle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\8.0.5\\microsoft.aspnetcore.authentication.google.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

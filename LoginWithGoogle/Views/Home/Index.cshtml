@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<br />
+
+@if(Context.User.Identity.IsAuthenticated)
+{
+    <br />
+    <h1>Merhaba @User.Identity.Name</h1>
+    <br />
+    <a asp-action="Logout" asp-controller="Login"class="btn btn-primary"> Çıkış Yap</a>
+}

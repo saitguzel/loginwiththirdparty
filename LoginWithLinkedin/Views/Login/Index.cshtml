@@ -1,0 +1,10 @@
+﻿@{
+
+    string _linkedinUrl = "https://www.linkedin.com/oauth/v2/authorization?response_type=code&client_id=" + ViewBag.ClientID + "&redirect_uri=" + ViewBag.RedirectUrl + "&state=98764321&scope=openid,profile,email";
+}
+<br />
+<br />
+<br />
+<center>
+    <a style="margin-top:10px" href="@_linkedinUrl" class="btn btn-primary"> Login with Linkedin</a>
+</center>
